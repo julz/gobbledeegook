@@ -1,4 +1,4 @@
 gobbledeegook
 =============
 
-Completely for fun, simple golang utility to generates structs from messages.json files for easy internationalization.
+Completely for fun, simple golang utility to generate structs from messages.[lang].json files for easy internationalization.
